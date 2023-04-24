@@ -1,0 +1,50 @@
+[
+	{
+		"name": "Achmad Alvin Ardiansyah",
+		"email": "alvin@gmail.com",
+		"password": "password",
+		"role": "super-admin"
+	},
+	{
+		"name": "Joko Widodo",
+		"email": "jokowi@gmail.com",
+		"password": "password",
+		"role": "admin"
+	},
+	{
+		"name": "Prabowo Subianto",
+		"email": "prabowo@gmail.com",
+		"password": "password",
+		"role": "admin"
+	},
+	{
+		"name": "Ganjar Pranowo",
+		"email": "ganjar@gmail.com",
+		"password": "password",
+		"role": "admin"
+	},
+	{
+		"name": "Ruby",
+		"email": "ruby@gmail.com",
+		"password": "password",
+		"role": "member"
+	},
+	{
+		"name": "Martis",
+		"email": "martis@gmail.com",
+		"password": "password",
+		"role": "member"
+	},
+	{
+		"name": "Jawhead",
+		"email": "jaw@gmail.com",
+		"password": "password",
+		"role": "member"
+	},
+	{
+		"name": "dian",
+		"email": "dian@gmail.com",
+		"password": "password",
+		"role": "member"
+	}
+]
