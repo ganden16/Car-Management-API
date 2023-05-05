@@ -1,8 +1,8 @@
 const {Car, User} = require('../models')
 const {Op} = require('sequelize')
 const jwt = require('jsonwebtoken')
-const port = process.env.PORT || 3000
-const baseUrl = process.env.BASE_URL || `http://localhost:${port}`
+const port = process.env.PORT ?? 5000
+const baseUrl = process.env.BASE_URL ?? `http://localhost:${port}`
 
 const getAllCarService = async (whereQuery) => {
 	try {
