@@ -3,7 +3,7 @@ const fs = require('fs')
 const data = fs.readFileSync('./data/cars.min.json', 'utf-8')
 const cars = JSON.parse(data)
 
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 5000
 const baseUrl = process.env.BASE_URL || `http://localhost:${port}`
 
 /** @type {import('sequelize-cli').Migration} */

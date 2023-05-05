@@ -31,7 +31,7 @@ c. run all seeders, these are includes all the seeders needed on the tables
    ```
 d. for other scripts, please check the package.json file
 
-#### 5. (Optional) Create an .env file by copy and rename file .env.example, then provide a variable value for secret_key
+#### 5.Create an .env file by copy and rename file .env.example, then provide a variable value for secret_key
 
 <br><br>
 
